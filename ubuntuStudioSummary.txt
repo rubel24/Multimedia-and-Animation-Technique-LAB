@@ -3,3 +3,7 @@ summary of ubuntu studio website feature:
 Ububtu studio is a linux-based operating system.
 It is a free and open source software.
 It is supported by cannonical ltd.
+
+kindle e-reader 
+Kindle is designed as a dedicated e-reader. Indulge your
+love of reading without interruptions like email alerts and push notifications.
