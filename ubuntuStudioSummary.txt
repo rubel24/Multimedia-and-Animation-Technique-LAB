@@ -2,3 +2,4 @@ summary of ubuntu studio website feature:
 
 Ububtu studio is a linux-based operating system.
 It is a free and open source software.
+It is supported by cannonical ltd.
