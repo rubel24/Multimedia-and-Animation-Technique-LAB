@@ -1,0 +1,40 @@
+
+Course Code: CSE-456
+Course Title:- Multimedia and Animation Techniques Laboratory
+
+Report on observing the tools of the ubuntu studio.
+
+Initially I run the Oracle VM virtual box.
+Then open the ubuntu studio through the virtual machine.
+
+we get several tools for the development of audio, graphics, video and other fields.
+
+I visited the field of audio production and then open the menue for audio utilities from where 
+I open the tool tool kid3-qt.
+
+kid3 tool is an application used for editiing the audio files with id3v1 and id3v2 tags in mp3 files in
+an efficient way.
+
+kid3 features are as follows :
+editing id3
+and many other features.
+
+we visited Ardour 5 for recording any audio.
+It is a digital workstation. It is used to record, edit and mix multi-track audio.
+
+We visited Audacity, whis is the free, open source, cross-platform software for recording and editing sounds.
+It is used to import and play an existing audio file, recording our voice , guiter standard and other instrumental sounds.
+some othyer features of Audacity are:
+
+I have also visited the menu of the audio effects , list of the effects are given bellow:
+	1. AT1
+	2. calf plugin pack
+	3. guitarix
+	4 Jack rack
+	5. JAMin  and some other effects.
+Then I have observed the instruments those are included in the instruments menu.
+some of the instruments are named as:
+
+Aeolus, Drumkv1, PHASEX, samplv1, synthv1, yoshimi etc.
+
+Some other tools are also available here such as midi utilities , Mixers etc.
